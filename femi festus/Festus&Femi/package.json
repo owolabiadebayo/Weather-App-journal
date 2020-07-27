@@ -1,0 +1,26 @@
+{
+  "name": "propertymanagement",
+  "version": "1.0.0",
+  "description": "property management",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "Data",
+    "collection",
+    "Festus&femi"
+  ],
+  "author": "Owolabi Adebayo stephen",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "node-fetch": "^2.6.0"
+  }
+}
